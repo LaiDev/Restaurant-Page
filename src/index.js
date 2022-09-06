@@ -1,1 +1,3 @@
-console.log("TESTING TESTING READ ALL ABOUT IT")
+import { initalLoad } from "./initalload";
+
+initalLoad();
